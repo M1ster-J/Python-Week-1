@@ -1,4 +1,3 @@
-
 # Python Week 1
 
 This repository features my **Week 1 Python projects** from my self-guided learning journey. It demonstrates core Python concepts, practical data handling, and my early exploration of the pandas and matplotlib libraries.
@@ -17,10 +16,14 @@ This repository features my **Week 1 Python projects** from my self-guided learn
  `summary_functions.py`            -Using summary / built-in functions to analyze data.  <br>
  `wine_reviews.csv`                -Sample dataset for hands-on data exploration.  <br>
 
-##  Goals & Learning Outcomes
+## Goals & Learning Outcomes
 
- By the end of Week 1, I achieved:
- A firm understanding of Python basics: variables, loops, conditionals, and functions.  <br>
- Practical exposure to working with lists, dictionaries, and strings. <br>
- Initial hands-on experience with libraries like `pandas` for data manipulation and `matplotlib` for plotting. <br>
- Experience in reading and using a real CSV file (`wine_reviews.csv`) for data exploration.
+By the end of Week 1, I achieved:
+A firm understanding of Python basics: variables, loops, conditionals, and functions.  <br>
+Practical exposure to working with lists, dictionaries, and strings. <br>
+Initial hands-on experience with libraries like `pandas` for data manipulation and `matplotlib` for plotting. <br>
+Experience in reading and using a real CSV file (`wine_reviews.csv`) for data exploration.
+
+## Portfolio Use Notice
+
+This repository is shared for portfolio review and technical evaluation only. See `LICENSE` for portfolio-use terms.
